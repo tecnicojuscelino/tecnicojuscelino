@@ -1,0 +1,157 @@
+body{
+    background-image: url(img/logo3.jpg); background-repeat: no-repeat; background-position:  cover  ;
+        background-attachment: fixed;background-size: cover;}
+
+      .container {
+
+        display: flex; flex-wrap: wrap;}
+
+        .item {flex:1 1 1500px center ;
+            margin-left: auto;
+                    margin-right: auto;
+         }
+
+
+        .logo {
+
+            display: flex ;}
+
+
+            img {
+                    display: block;
+                    margin-left: auto;
+                    margin-right:auto;
+                    width:100%;
+                  }
+                  p{
+                    color: rgb(246, 245, 248);
+                    text-shadow: #000 2px 3px 2px;
+                    margin-left: 50px;
+                    margin-right: 50px;
+                    }
+                    h1{
+                      text-align: center;
+                      font-family: Arial, Helvetica, sans-serif;
+                      color: rgb(246, 245, 248);
+                    text-shadow: #000 2px 3px 2px;
+                    margin-left: 50px;
+                    margin-right: 50px;
+                  }
+                  h6{
+                    text-align: center;
+                    font-family: Arial, Helvetica, sans-serif;
+                    color: rgb(246, 245, 248);
+                  text-shadow: #000 2px 3px 2px;
+                  margin-left: 50px;
+                  margin-right: 50px;
+                  }
+
+
+                  fieldset{
+                      width: 20rem;
+                      height: 38rem;
+                      margin: auto;
+                      margin-top: 3rem;
+                      background-color: rgb(221, 213, 220);
+                      border-radius: 10px;
+                      -webkit-border-radius: 10px;
+                      -moz-border-radius: 10px;
+                      -ms-border-radius: 10px;
+                      -o-border-radius: 10px;
+                      box-shadow: 1px -1px 17px 0px rgba(0, 0, 0, 0.75);
+                  }
+                  .box input{
+                      width: 300px;
+                      height: 20px;
+                      margin: 4px;
+                  }
+                  .box textarea{
+                      resize: none;
+                      width: 300px;
+                      margin: 4px;
+                  }
+                  .box button{
+                      margin-left: 1rem;
+                      background-color: #06db46;
+                      border: 0px;
+                      padding: 10px 120px;
+                      color: white;
+                      font-size: 1rem;
+                      outline: none;
+                      border-radius: 4px;
+                      -webkit-border-radius: 4px;
+                      -moz-border-radius: 4px;
+                      -ms-border-radius: 4px;
+                      -o-border-radius: 4px;
+                  }
+                  .vox button{
+                    margin-left: 1rem;
+                    background-color: #ce1111;
+                    border: 0px;
+                    padding: 10px 95px;
+                    color: white;
+                    font-size: 1rem;
+                    outline: none;
+                    border-radius: 4px;
+                    -webkit-border-radius: 4px;
+                    -moz-border-radius: 4px;
+                    -ms-border-radius: 4px;
+                    -o-border-radius: 4px;
+                  }
+
+                  footer{ text-align: center;
+                    color: white;
+
+                  }
+
+                  link{ 
+                     color: white;
+
+                  }
+                  .flut {
+                    font-size: 30px;
+                    text-transform: uppercase;
+                    color: white;
+                    letter-spacing: 1px;
+                    text-shadow: 0 1px 0 #969595, 0 2px 0 #969595, 0 3px 0 #969595, 0 4px 0 #969595, 0 30px 15px rgba(0, 0, 0, 0.212);
+                    -webkit-animation: wave 3s linear infinite;
+                            animation: wave 3s linear infinite;
+                    -webkit-animation-direction: alternate;
+                            animation-direction: alternate;
+                  }
+                  
+                  @-webkit-keyframes wave {
+                    0% {
+                      -webkit-transform: rotate(5deg);
+                              transform: rotate(5deg);
+                    }
+                    100% {
+                      -webkit-transform: rotate(-5deg);
+                              transform: rotate(-5deg);
+                    }
+                  }
+                  
+                  @keyframes wave {
+                    0% {
+                      -webkit-transform: rotate(5deg);
+                              transform: rotate(5deg);
+                    }
+                    100% {
+                      -webkit-transform: rotate(-5deg);
+                              transform: rotate(-5deg);
+                    }
+          
+                
+                
+                
+                  }
+
+                  .gif {
+                    margin: auto;
+                    display: block;
+                    height: 700px;
+                    width:  400px;
+
+              }
+              
+              

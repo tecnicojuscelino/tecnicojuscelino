@@ -1,2 +1,0 @@
-# tecnicojuscelino
- site pessoal
