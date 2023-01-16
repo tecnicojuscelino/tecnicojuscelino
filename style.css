@@ -151,17 +151,46 @@ body{
                     display: block;
                     height: 700px;
                     width:  400px;
+                  }
 
-              }
-              /* Rectangle 1 */
+                  .Rectangle_1 {
+                    position: static;
+                    width: 218px;
+                    height: 225px;
+                    left: 80px;
+                    top: 437px;
+                  }
+                  .Rectangle_2 {
+                    position: static;
+                    width: 218px;
+                    height: 225px;
+                    left: 326px;
+                    top: 437px;
+                    
+                
+                  }
+                  .Rectangle_3 {  
+                    position: static;
+                    width: 218px;
+                    height: 225px;
+                    left: 572px;
+                    top: 437px;
+                    
+                  }
+                  .Rectangle_4 {
+                    position: static;
+                    width: 218px;
+                    height: 225px;
+                    left: 841px;
+                    top: 437px;
+                    
+                  }
+                  .Rectangle_5 {
+                position: static;
+                width: 218px;
+                height: 225px;
+                left: 1087px;
+                top: 437px;
 
-
-{position: absolute;
-width: 228px;
-height: 225px;
-left: 80px;
-top: 437px;
-
-background: url(Configuração de Impressoras.jpg);}
-              
-              
+                  }
+                  .outset {border-style: outset;}
