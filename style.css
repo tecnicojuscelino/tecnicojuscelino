@@ -96,8 +96,8 @@ body {
        
 }
   h1 {
-    font-family: 'Permanent Marker', cursive;
-    color: rgb(49, 236, 11);
+    font-family: 'Anton', sans-serif;
+    color: rgb(247, 250, 247);
   }
 
 
@@ -124,8 +124,8 @@ body {
   
   .services-container h2 {
       margin-bottom: 20px;
-      font-family: 'Permanent Marker', cursive;
-      color: rgb(49, 236, 11);
+      font-family: 'Anton', sans-serif;
+      color: rgb(241, 245, 240);
   }
   
   .services-container ul {
@@ -139,13 +139,13 @@ body {
       margin-bottom: 10px;
   }
  li{
-  font-family: 'Permanent Marker', cursive;
-  color: rgb(49, 236, 11);
+  font-family: 'Anton', sans-serif;  
+  color: rgb(246, 248, 246);
 }
 
  h2{
-  font-family: 'Permanent Marker', cursive;
-  color: rgb(49, 236, 11);
+  font-family: 'Anton', sans-serif;  
+  color: rgb(243, 247, 243);
 
  }
   
